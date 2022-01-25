@@ -19,7 +19,7 @@ const Index = () => {
         />
         <BasicTextModule
           title="Wir wollen, dass es Ihnen gut geht"
-          content="Unsere beliebtes Saunafass kann jederzeit gemietet werden."
+          content="Unsere beliebtes Saunafass kann gemietet werden."
           linkText="View Products"
         />
         <PerksModule>
