@@ -3,8 +3,8 @@ import Layout from "../components/Layout"
 import Seo from "../components/SEO"
 import BannerModule from "../components/BannerModule/BannerModule"
 import BasicTextModule from "../components/BasicTextModule/BasicTextModule"
-import PerksModule from "../components/PerksModule/PerksModule"
-import Perk from "../components/PerksModule/Perk"
+// import PerksModule from "../components/PerksModule/PerksModule"
+// import Perk from "../components/PerksModule/Perk"
 import Features from "../components/Features/Features"
 import LatestPosts from "../components/Post/LatestPosts"
 
@@ -14,7 +14,7 @@ const Index = () => {
       <Seo title="Home" />
       <Layout>
         <BannerModule
-          title="Willkommen auf MobilSPA.de"
+          title="Willkommen auf MobilSPA"
           subTitle="die mobile SPA Lösung."
         />
         <BasicTextModule
@@ -22,9 +22,6 @@ const Index = () => {
           content="Unsere beliebtes Saunafass kann gemietet werden."
           linkText="View Products"
         />
-        <PerksModule>
-          <Perk title="The Title" content="The content" />
-        </PerksModule>
         <Features
           title="Weiter Produkte von MobilSPA"
           introduction="Weiter interessante Produktvorstellungen."
