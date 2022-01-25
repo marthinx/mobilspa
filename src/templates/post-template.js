@@ -25,7 +25,7 @@ const PostTemplate = (contentfulPost) => {
           )}
         </PostSingleStyles>
       </section>
-      <LatestPosts title="letzte Nachrichten von MobileSpa.de" />
+      <LatestPosts title="Further reading from Barcadia" />
     </>
   )
 }

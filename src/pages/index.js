@@ -14,12 +14,12 @@ const Index = () => {
       <Seo title="Home" />
       <Layout>
         <BannerModule
-          title="Willkommen auf MobilSPA"
+          title="Willkommen auf MobilSPA.de"
           subTitle="die mobile SPA Lösung."
         />
         <BasicTextModule
           title="Wir wollen, dass es Ihnen gut geht"
-          content="Unsere beliebtes Saunafass kann gemietet werden."
+          content="Unsere beliebtes Saunafass kann jederzeit gemietet werden."
           linkText="View Products"
         />
         <PerksModule>
