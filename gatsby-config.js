@@ -18,7 +18,7 @@ module.exports = {
     image: "/spa_title.jpg",
     siteUrl: "https://mobilSPA.de",
     developerName: "Martin",
-    developerUrl: "https://www.morganbaker.dev",
+    developerUrl: "https://www.mobilSPA.de",
   },
   /* Your site config here */
   plugins: [
