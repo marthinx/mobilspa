@@ -16,9 +16,9 @@ module.exports = {
     instagramUsername: "MobilSPA",
     linkedinUsername: "MobilSPA",
     image: "/spa_title.jpg",
-    siteUrl: "https://barcadia.netlify.com",
+    siteUrl: "https://mobilspa.de,
     developerName: "Martin",
-    developerUrl: "https://www.morganbaker.dev",
+    developerUrl: "https://www.mobilspa.de,
   },
   /* Your site config here */
   plugins: [
