@@ -16,9 +16,9 @@ module.exports = {
     instagramUsername: "MobilSPA",
     linkedinUsername: "MobilSPA",
     image: "/spa_title.jpg",
-    siteUrl: "https://mobilspa.de,
+    siteUrl: "https://mobilSPA.de",
     developerName: "Martin",
-    developerUrl: "https://www.mobilspa.de,
+    developerUrl: "https://www.morganbaker.dev",
   },
   /* Your site config here */
   plugins: [
