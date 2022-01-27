@@ -9,7 +9,7 @@ require("dotenv").config({
 module.exports = {
   siteMetadata: {
     title: "MobilSPA",
-    description: "Powered by GatsbyJS",
+    description: "unsere mobile SPA Lösung",
     author: "Martin",
     twitterUsername: "MobilSPA",
     facebookUsername: "MobilSPA",
