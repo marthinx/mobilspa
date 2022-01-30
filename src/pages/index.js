@@ -15,7 +15,7 @@ const Index = () => {
       <Layout>
         <BannerModule
           title="Willkommen auf MobilSPA"
-          subTitle="die mobile SPA Lösung."
+          subTitle="die mobile SPA Lösung für heiße Momente!"
         />
         <BasicTextModule
           title="Wir wollen, dass es Ihnen gut geht"
